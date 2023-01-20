@@ -11,7 +11,13 @@
 
 8轴开发
 
-## 麦克纳姆伦小车
+## MecanumWheelCar(麦克纳姆伦)
+
+
+
+## minCNC
+
+
 
 # tools
 
@@ -29,15 +35,16 @@
 
 ## sketchUp
 
-## 树莓派
+## Raspberry Pi(树莓派)
 
 ## 电路基础学习
 
 ## 电路焊接
 
+## 飞控
 
 
-# 元件及材料数据
+# Component & material data
 
 保留一些材料和元件的信息，购买网站、页面信息等。
 
