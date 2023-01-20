@@ -1,24 +1,37 @@
-### 欢迎使用坚果云Markdown
 
-##### 新增图片上传功能
+# 项目清单
 
-现在可以在文章中插入图片，将更丰富的内容分享给朋友了！
+这里记录我们的开发计划；
 
-- 您可以插入外链图片，或上传本地图片到文档中。
-- 从本地上传的图片不支持外链引用，您可以通过坚果云分享链接来发布图文预览。
-- 可上传的单张图片最大20M，支持PNG、JPG格式，使用时请留意账号流量或空间是否充足。
-- 若有其他疑问，欢迎咨询官网在线客服。
+## 电机扭矩和拉力测试
 
- 
+## 模拟车的开发
 
-### Welcome to the Nutstore Markdown
+## 多轴开发平台
 
-##### New feature! Insert pictures in your articles now!
+8轴开发
 
-You can insert pictures from external links, or upload ones.
+# 工具清单
 
-The pictures in the articles can not be used through external links. Please share your articles with the Nutstore share link.
+## python
 
-The maximum size of the picture to upload is 20M. PNG and JPG are better. Be sure that your traffic and space are enough if you want to add a lot of pictures in your article.
+## arduino
 
-Have any other questions, please contact our official customer service.
+## 3dprint
+
+## 木工
+
+## 步进电机
+
+## solidworks
+
+## sketchUp
+
+## 树莓派
+
+# 元件及材料数据
+
+保留一些材料和元件的信息，购买网站、页面信息等。
+
+# log
+
