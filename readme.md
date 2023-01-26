@@ -7,11 +7,7 @@
 
 电机扭矩和拉力测试
 
-
-
 ## miniCar
-
-
 
 ## Multi-axis aircraft
 
@@ -32,6 +28,10 @@
 
 设计制作一个用于3D打印机的自动供料系统，用于打印机连续供料。
 
+## 变桨距的直升机系统
+
+
+
 # tools
 
 ## python
@@ -39,8 +39,6 @@
 ## arduino
 
 ## 3dprint
-
-
 
 ## woodworks
 
