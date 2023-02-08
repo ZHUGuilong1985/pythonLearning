@@ -64,7 +64,6 @@ Multisim
 
 一个底层构架，完成word、excel、PowerPoint的功能。除此之外，可以根据试图灵活的切换显示的形式，换言之，word、excel、PowerPoint只是视图的差别，内部数据是一致的。
 
-
 # Component & material data
 
 保留一些材料和元件的信息，购买网站、页面信息等。
@@ -73,10 +72,7 @@ Multisim
 
 分为步进电机、无刷电机和直流有刷电机
 
-
 ## 
-
-
 
 # log
 
